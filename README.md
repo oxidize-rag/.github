@@ -1,3 +1,5 @@
+![Oxidize-RAG](https://raw.githubusercontent.com/oxidize-rag/oxidize/main/assets/banner.png)
+
 # 🐙 Oxidize-RAG Organization
 
 > **High-Performance AI Infrastructure, Built in Rust.**
