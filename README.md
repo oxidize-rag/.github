@@ -1,4 +1,4 @@
-![Oxidize-RAG](https://raw.githubusercontent.com/oxidize-rag/oxidize/main/assets/banner.png)
+![Oxidize-RAG](https://raw.githubusercontent.com/oxidize-rag/oxidize/main/assets/banner-wide.png)
 
 # 🐙 Oxidize-RAG Organization
 
